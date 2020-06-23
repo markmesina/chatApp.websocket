@@ -1,0 +1,23 @@
+{
+  "name": "chatApp.websocket",
+  "version": "1.0.0",
+  "description": "## Technologies ** NodeJS ** ExpressJS **Websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markmesina/chatApp.websocket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markmesina/chatApp.websocket/issues"
+  },
+  "homepage": "https://github.com/markmesina/chatApp.websocket#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
